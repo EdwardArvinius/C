@@ -1,0 +1,7 @@
+The program transforms a line of text from the user like: Now is the time to add numbers,
+and changes it to:
+
+Now is
+the time
+to add
+numbers
